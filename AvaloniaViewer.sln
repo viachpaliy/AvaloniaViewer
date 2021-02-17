@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvaloniaViewer", "AvaloniaViewer.csproj", "{38DAC3C4-8107-4DB4-8F76-EBC759C72C4A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AvaloniaViewer", "AvaloniaViewer.csproj", "{38DAC3C4-8107-4DB4-8F76-EBC759C72C4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevRender", "DevRender\DevRender.csproj", "{90CD4A50-4139-4F90-AB9B-D9B59D3E400D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{38DAC3C4-8107-4DB4-8F76-EBC759C72C4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{38DAC3C4-8107-4DB4-8F76-EBC759C72C4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{38DAC3C4-8107-4DB4-8F76-EBC759C72C4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90CD4A50-4139-4F90-AB9B-D9B59D3E400D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90CD4A50-4139-4F90-AB9B-D9B59D3E400D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90CD4A50-4139-4F90-AB9B-D9B59D3E400D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90CD4A50-4139-4F90-AB9B-D9B59D3E400D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
